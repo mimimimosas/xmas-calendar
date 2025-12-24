@@ -21,6 +21,10 @@ import iverImg from './assets/images/iver.png';
 import cyrusImg from './assets/images/cyrus.png';
 import decemberistsImg from './assets/images/decemberists.png';
 import tiavoImg from './assets/images/tiavo.png';
+import mccartneyImg from './assets/images/mccartney.png';
+import ninebroImg from './assets/images/9inebro.png';
+import cowboyImg from './assets/images/cowboy.png';
+import sweatshirtImg from  './assets/images/sweatshirt.png';
 
 export const CALENDAR_CONTENT = {
   1: {
@@ -433,39 +437,72 @@ The song “discothèque with u” is a feel-good track for me. Whether you’re
 Enjoy listening and stay tuned for tomorrow’s song!`
 },
 24: {
-    song: 'DESPECHÁ',
-    interpret: 'ROSALÍA',
-    videoId: '5g2hT4GmAGU',
-    imgSrc: rosaliaImg,
-    spotifyLink:"https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq?si=UEtWN-7qRuqHEFsc9OJBjw",
-    appleLink:"https://music.apple.com/us/song/despech%C3%A1/1636782444",
-    message: ``
+    song: 'Wonderful Christmastime',
+    interpret: 'Paul McCartney',
+    videoId: '2TfWo3GsIII',
+    imgSrc: mccartneyImg,
+    spotifyLink:"https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu?si=ZU7Q3Ze8QM-10EzoSvIhjw",
+    appleLink:"https://music.apple.com/de/song/wonderful-christmastime-edited-version/1440953981",
+    message: `Today’s the day, the 24th of December. Merry Christmas! ✨
+
+As it should be, today’s song is a Christmas song: “Wonderful Christmastime” by Paul McCartney, brought by @+49 174 8138813:
+
+For me, this is not a classic Christmas song; it has a unique sound base and, as a bonus, instantly puts me in a great mood. This is the perfect song to make your winter walk a little bit more whimsical, because who doesn't want to have a wonderful Christmastime. 
+
+Bonus song: If you are in a rush and have to leave the house, put on “Holiday Flight” — it's only one minute, with the motto “time pressure but make it festive.”
+
+Enjoy listening and have a wonderful Christmas!`
 },
 25: {
-    song: 'DESPECHÁ',
-    interpret: 'ROSALÍA',
-    videoId: '5g2hT4GmAGU',
-    imgSrc: rosaliaImg,
-    spotifyLink:"https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq?si=UEtWN-7qRuqHEFsc9OJBjw",
-    appleLink:"https://music.apple.com/us/song/despech%C3%A1/1636782444",
-    message: ``
+    song: 'CROISSANT prod. by DIENST&SCHULTER',
+    interpret: '9INEBRO',
+    videoId: 'b1BkCReuC4A',
+    imgSrc: ninebroImg,
+    spotifyLink:"https://open.spotify.com/intl-de/track/4bZZKMossJRKhysQmOVjbL?si=6009e18b7aad4b7a",
+    appleLink:"https://music.apple.com/us/song/croissant/1731474052",
+    message: `Hellouu & good morning on the 25th of December. ✨
+
+Todays song “CROISSANT” prod. by DIENST&SCHULTER by 9INEBRO is brought by me.
+
+Dieser Song hittet jedes Mal anders, wenn ich ihn höre. Ich habe ihn entdeckt, als ich aus meinem Auslandssemester zurückgekommen bin und gemerkt habe, wie groß mein Liebeskummer eigentlich noch war. Für mich gibt es kaum einen anderen Song, der dieses Gefühl so gut einfängt. Du kannst dir also vorstellen, wie viel ich zu diesem Song schon geweint habe...
+
+Seitdem ich den Song das erste Mal auf der Rückfahrt von Nürnberg mit dir gehört habe, hat sich das geändert. Es ist nichmehr nur liebeskummer sondard auch Liebe und Zuneigung die ich jetzt mit dem Song verbinde. 
+
+Also der Song ist inzwischen total schönes gefühlschaos für mich und das gefühl würde ich gern mit dir teilen :)
+
+P.S. Eine kleine Erinnerung an den Song: Am 23ten haben wir auf meinem Teppich im Wohnzimmer gekuschelt und den Song gehört. Ich habe mich dir dabei so verbunden und nahe gefühlt und ganz still und heimlich ein bisschen geweint. 
+`
 },
 26: {
-    song: 'DESPECHÁ',
-    interpret: 'ROSALÍA',
-    videoId: '5g2hT4GmAGU',
-    imgSrc: rosaliaImg,
-    spotifyLink:"https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq?si=UEtWN-7qRuqHEFsc9OJBjw",
-    appleLink:"https://music.apple.com/us/song/despech%C3%A1/1636782444",
-    message: ``
+    song: 'Shells',
+    interpret: 'Westside Cowboy',
+    videoId: 'o4-zMf-ywU8',
+    imgSrc: cowboyImg,
+    spotifyLink:"https://open.spotify.com/intl-de/track/1vtuuLA1GTiqcnmDleBqje?si=1a2908d340774eb1",
+    appleLink:"https://music.apple.com/us/song/shells/1808084583",
+    message: `Hellouu & good morning on the 26th of December. ✨
+
+Todays song “Shells” by Westside Cowboy is brought to me by you.
+
+Ich weiß nicht, ob du dich erinnerst, aber das war der erste Song, den du mir einen Tag nach unserem ersten Date geschickt hast. Das hattest du mir geschrieben, und ich habe mich dabei ein bisschen in dich verknallt:
+
+"Ich bin nicht so gut im Schreiben, aber dafür im Songs schicken. Bisher kann ich deinen Musikgeschmack noch nicht einschätzen, aber das ist einer meiner Favoriten aktuell."
+
+Ich hoffe, du wirst mir noch ganz viele Songs schicken!`
 },
 27: {
-    song: 'DESPECHÁ',
-    interpret: 'ROSALÍA',
-    videoId: '5g2hT4GmAGU',
-    imgSrc: rosaliaImg,
-    spotifyLink:"https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq?si=UEtWN-7qRuqHEFsc9OJBjw",
-    appleLink:"https://music.apple.com/us/song/despech%C3%A1/1636782444",
-    message: ``
+    song: 'Sunday',
+    interpret: 'Earl Sweatshirt feat Frank Ocean',
+    videoId: 'DoIHZXoxAhU',
+    imgSrc: sweatshirtImg,
+    spotifyLink:"https://open.spotify.com/intl-de/track/0rrbyCrnUR649CyuxHKQng?si=0fecc2ef4ab248e4",
+    appleLink:"https://music.apple.com/us/song/repo-man/1316087252",
+    message: `Hellouu & good morning on the 27th of December. ✨
+
+Todays song “Sunday” by Earl SweatShirt is brought by me.
+
+This is one of my all-time favorites, from a time of graffiti writing, skating, weed smoking, and having no obligations.
+
+P.S. I hope you enjoy this one, and there’s a bonus song that I thought you would like.`
 }
 };
